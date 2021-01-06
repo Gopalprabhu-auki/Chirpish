@@ -1,0 +1,78 @@
+.ch-head{
+    background-color:rgb(99, 172, 255);   
+    
+}
+.ch-atom-text{
+    color: white;
+    font-size:16px;
+    vertical-align: middle;
+    font-weight: 500;
+}
+.btn-outline-success__Contact-btn{
+    color: rgb(99, 172, 255) !important;
+    border-color: rgb(99, 172, 255) !important;
+    border-radius: 17px !important;
+    
+}
+
+/*-----------small----------------*/
+@media only screen and (max-width: 380px){
+.ch-atom-row__img{
+    width:38%;
+    margin-left: -3px;
+    margin-top: 3px;
+    border-width: thin !important;
+}
+}
+
+
+/*------------MEDium-----------*/
+
+@media only screen and (min-width: 7000px)and (max-width: 1025px){
+
+}
+
+/*--------------------LARGE---------------*/
+
+@media only screen and (min-width: 1020px){
+.ch-atom-text--toLeft{
+    margin-left: -14px;
+}
+.btn-outline-success--toRight{
+    margin-left: 5px;
+      
+}
+.btn-outline-success__Contact-btn{
+    width: 115px;
+    border:3px;
+    height: 45px;
+    border-width: 2px !important;
+}
+.row__second--toDown{
+    margin-top: 29px !important;
+    margin-left: -13px !important;
+    
+}
+.nav-link__minwidth{
+    margin-left: 40px;
+    width: 110px!important;
+}
+.nav-link__minwidth--toLeft{
+    padding-left: 22px !important;
+    margin-left: 0px !important;
+}
+.nav-link__minwidth--toLeft2{
+    margin-left: -14px !important;
+}
+.nav-link{
+    color: black !important;
+}
+.nav-link :hover{
+    color: blue!important;
+}
+.nav-link__minwidth--toLeft3{
+    margin-left: 348px !important;
+    width: 125px !important;
+}
+
+}
