@@ -3,6 +3,10 @@
     background-color:rgb(99, 172, 255);   
     
 }
+.ch-atom-heading{
+    font-family: 'EB Garamond';
+    font-weight: 800;
+}
 a{
     font-family: 'Spartan', sans-serif;
 }
@@ -21,6 +25,39 @@ a{
 .ch-atom-text--maxwidth{
     color: rgb(118, 118, 118) !important;
 }
+.ch-molc-btn--blue{
+    background-color:  rgb(99, 172, 255) !important;
+    border-color: rgb(99, 172, 255) !important;
+    border-radius: 25px !important;
+    
+}
+.ch-atom-link{
+    color: rgb(99, 172, 255);
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 600;
+}
+.fa-star{
+    color: #ffc107;
+}
+.ch-atom-reviewtext--weight{
+    font-weight: 600;
+    color:rgb(118, 118, 118);
+}
+.ch-organism-sec3{
+    
+    background-color: rgb(248, 251, 255);
+    border-radius: 50px;
+}
+.ch-atom-heading--font-size{
+    font-family: 'EB Garamond', serif;
+    font-weight: 800;
+}
+.card-title--smaller{
+    font-family: 'EB Garamond', serif;
+    font-weight: 800;
+}
+
 
 
 /*-----------small----------------*/
@@ -39,7 +76,88 @@ a{
     text-align: center;
     font-size: 35px;
     max-width: 300px;
+    margin-top: 60px;
+    margin-left: 20px;
 }
+.ch-atom-text{
+    text-align: center;
+}
+.ch-molc-btn{
+    width: 155px;
+    margin-left: 95px;
+    border-radius: 50px !important;
+    height: 60px;
+    font-weight: 600 !important;
+    margin-top: 38px;
+}
+.ch-atom-link{
+    margin-left: 125px;
+    margin-top: 30px;
+}
+.ch-atom-text--maxwidth{
+    line-height: 18px;
+}
+.ch-atom-heading--maxwidth{
+    margin-top: 80px;
+    line-height: 33px;
+    font-size: 40px;
+}
+.ch-atom-text--maxwidth{
+    margin-top: 10px;
+    line-height: 20px;
+}
+.ch-atomsec3img{
+    width: 27%;
+    position: absolute;
+    transform: translate(215%, -33%);
+}
+.ch-organism-sec3{
+    margin-top: 60px !important;
+}
+.ch-molc-starnrev{
+    margin-top:78px;
+}
+.fa-star--bigger{
+    font-size: 17px !important;
+    padding-left: 2px;
+}
+.ch-atom-reviewtext--weight{
+    font-size: 11px;
+    font-weight: 800;
+}
+.ch-atom-heading--font-size{
+    font-size: 29px;
+    max-width: 320px;
+    margin-left: 12px;
+    line-height: 33px;
+    margin-top: 30px;
+    word-spacing: -1px;
+    letter-spacing: -1px;
+}
+.ch-atom-card-img{
+    width: 40% !important;
+}
+.ch-organism-section2{
+    padding: 0px 17px;
+}
+.card-title--smaller{
+    width: 140px !important;
+    font-size: 18px;
+}
+.row-organism--card{
+    margin-top: 55px !important;
+}
+.card2{
+    margin-top: -10px !important;
+     
+}
+.fa-molc-phone-padtop{
+    margin-top: 40px !important;
+}
+.ch-molc-rightcard{
+    margin-left: -20px !important;
+}
+
 }
 
 
@@ -57,6 +175,77 @@ a{
     margin-left: 48px;
     margin-top: 20px;
     width: 86%;
+}
+.ch-atom-heading{
+    font-size: 55px;
+    margin-top: 58px;
+    margin-left: 10px;
+}
+.ch-atom-text--maxwidth{
+    max-width: 500px;
+    font-weight: 500;
+    margin-left: 15px;
+}
+.ch-molc-btn{
+    width: 135px;
+    margin-left: 15px;
+    height: 50px;
+}
+.ch-atom-link{
+    margin-left: 30px;
+}
+.ch-atomsec3img{
+    width: 12%;
+    position: absolute;
+    transform: translate(580%, -33%);
+}
+.ch-organism-sec3{
+    margin-top: 45px !important;
+}
+.ch-molc-starnrev{
+    margin-top: 45px;
+}
+.ch-atom-heading--font-size{
+    max-width: 480px;
+   font-size: 35px;
+   margin-left: 120px; 
+   line-height: 43px;
+}
+.ch-atom-heading--maxwidth{
+    white-space: pre;
+    line-height: 44px;
+}
+.ch-organism-sec3{
+    margin-top: 55px !important;
+}
+.ch-atom-card-img{
+    width: 68% !important;
+    margin-left: 45px;
+}
+.card-title--smaller{
+    font-size: 17px;
+    width: 98px !important;
+    line-height: 18px;
+}
+.row-organism--card{
+    margin-left: 23px !important;
+    margin-top: 60px !important;
+}
+.card2{
+    margin-top: -12px !important;
+    margin-left: 30px;
+}
+.card-title--minimise-width{
+    max-width: 50px !important;
+    margin-left: 35px;
+}
+.card3{
+    margin-top: 4px !important;
+    margin-left: 22px;
+}
+.card4{
+    margin-top: 5px !important;
+    margin-left: 45px;
 }
 
 
@@ -106,6 +295,7 @@ a{
     margin-left: 348px !important;
     width: 125px !important;
 }
+
 .ch-atom-text--maxwidth{
     max-width: 350px;
     font-size: 19px;
@@ -115,15 +305,74 @@ a{
     padding-top: 80px;
 }
 .ch-atom-heading--maxwidth{
-    max-width: 350px;
+    max-width: 370px;
     font-size: 59px;
     line-height: 55px;
 }
-.ch-atom-heading{
-    font-family: Recoleta Bold;
+.ch-atom-heading--font-size{
+    font-size:38px;
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+    max-width: 500px;
+    margin-left: 310px;
+    font-weight: 800;
+    line-height: 40px;
+    word-spacing: -4px;
 }
 .ch-atom-img2--smaller{
     width: 95%;
     margin-top: 10px;
 }
+.ch-molc-btn--blue{
+   width: 135px !important;
+   height: 50px;
+}
+.ch-atom-link{
+    margin-left: 28px;
+}
+.ch-atom-reviewtext--weight{
+    font-size: 18px;
+}
+.fa-star--bigger{
+    font-size: 20px !important;
+    padding-left: 4px;
+}
+.ch-molc-starnrev{
+    margin-top: 50px;
+    margin-left: -19px;
+}
+.ch-atomsec3img{
+    width: 7%;
+    position: absolute;
+    transform: translate(950%, -33%);
+}
+.ch-organism-sec3{
+    margin-top: 55px !important;
+}
+.ch-atom-card-img{
+    width: 50% !important;
+    margin-left: 45px;
+}
+.card-title--smaller{
+    font-size: 17px;
+    width: 158px !important;
+}
+.row-organism--card{
+    margin-left: 223px !important;
+    margin-top: 80px !important;
+}
+.card2{
+    margin-top: -12px !important;
+    margin-left: -12px;
+}
+.card3{
+    margin-top: 4px !important;
+    margin-left: -12px;
+}
+.card4{
+    margin-top: 5px !important;
+    margin-left: 22px;
+}
+
+
 }
