@@ -25,6 +25,9 @@ a{
 .ch-atom-text--maxwidth{
     color: rgb(118, 118, 118) !important;
 }
+.ch-atom-text--ashcolor{
+    color: rgb(118, 118, 118) !important;
+}
 .ch-molc-btn--blue{
     background-color:  rgb(99, 172, 255) !important;
     border-color: rgb(99, 172, 255) !important;
@@ -58,6 +61,30 @@ a{
     font-weight: 800;
 }
 
+.heading-font{
+    font-family: 'EB Garamond', serif;
+}
+.card-text{
+    color: #767676;
+    font-weight: 500;
+}
+.item-atom-trophie{
+    background-color: rgb(248, 251, 255) ;
+    border-radius: 30px;
+}
+.ch-atom-section6-card{
+    width: 2rem !important;
+}
+.ch-molc-sectoin6-card{
+    width:15rem !important
+}
+.ch-atom-section7-text--maxwidth{
+    font-weight: 400;
+}
+.ch-atom-section7-headingline{
+    line-height: 31px !important;
+    margin-left: 0px !important;
+}
 
 
 /*-----------small----------------*/
@@ -157,7 +184,90 @@ a{
 .ch-molc-rightcard{
     margin-left: -20px !important;
 }
-
+.ch-atom-img-arrow2--position{
+    width: 25%;
+    position: absolute;
+    transform: translate(-166%, 0%);
+}
+.ch-organism-sec3--margin{
+    padding-bottom: 50px;
+}
+/*----section3-----------*/
+.ch-atom-sec3--headingpad{
+    font-size: 35px;
+}
+.ch-atom-desc--maxwidth{
+    max-width: 300px;
+    text-align: center !important;
+    margin-left: 35px;
+    padding-top: 25px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.ch-atom-sec4-img1{
+    width: 20% !important;
+    
+}
+.ch-atom-sec4-img2{
+    width: 27% !important;
+}
+.ch-atom-sec4-img3{
+    width: 38% !important;
+    margin-left: 8px !important;
+}
+.ch-molc-sec4__card-width{
+    margin-right: 30px;
+}
+.ch-atom-sec4-carddesc{
+    font-size: 14px;
+    width: 200px;
+}
+.ch-atom-sec4-carddesc2--maxwidth-larger{
+    margin-left:53px ;
+}
+.ch-molc-sec4-card--pad{
+    margin-left: -10px;
+}
+.ch-atom-sec4-cardheading1{
+    font-size: 22px !important;
+    font-weight: 800;
+}
+.ch-atom-sec4-cardheading2{
+    font-size: 22px !important;
+    font-weight: 800;
+}
+.ch-atom-sec4-cardheading3{
+    font-size: 22px !important;
+    font-weight: 800;
+}
+.ch-molc-sec4-card3--pad{
+    margin-left: -12px;
+}
+.card-text{
+    line-height: 19px;
+}
+.ch-atom-arrow1{
+    width: 27%;
+    position: absolute;
+    transform: translate(160%, -453%) rotate(50deg);
+}
+.ch-atom-arrow2{
+    width: 27%;
+    position: absolute;
+    transform: translate(-240%, -123%) rotate(-60deg) scale(-1,1);
+}
+.ch-atom-section5-font{
+    font-size: 35px !important;
+    margin-bottom: 25px;
+}
+.item-atom-trophie--width{
+    width: 95% !important;
+}
+.ch-atom-text--maxwidth{
+    max-width: 329px;
+    margin-left: 10px;
+    
+}
 }
 
 
@@ -247,6 +357,87 @@ a{
     margin-top: 5px !important;
     margin-left: 45px;
 }
+.ch-atom-img-arrow2--position{
+    width: 12%;
+    position: absolute;
+    transform: translate(290%, -93%);
+}
+.card-title--text-to-right{
+    margin-left: 15px;
+}
+.ch-atom-img-headphone{
+    width: 69%;
+    position: absolute;
+    transform: translate(-1%, 8%);
+}
+.ch-atom-img-headphone :hover{
+    display: none;
+}
+.ch-atom-desc--maxwidth{
+    max-width: 340px;
+    margin-left: 230px;
+    padding-top: 15px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.card1{
+    text-align: center;
+}
+.card2{
+    text-align: center;
+}
+.card3{
+    text-align: center;
+}
+.ch-atom-sec4-img1{
+    width: 10% !important;
+}
+.ch-atom-sec4-img2{
+    width: 10% !important;
+}
+.ch-atom-sec4-img3{
+    width: 15% !important;
+}
+.ch-atom-sec4-carddesc2--maxwidth-larger{
+    max-width: 185px;
+    margin-left: 200px;
+}
+.ch-atom-sec4-carddesc1--maxwidth-larger{
+    max-width: 205px;
+    margin-left: 220px;
+}
+.ch-atom-sec4-carddesc3--maxwidth-larger{
+    max-width: 185px;
+    margin-left: 220px;
+}
+.ch-atom-sec4-cardheading3{
+    font-size: 25px !important;
+    font-weight: 700;
+}
+.ch-atom-sec4-cardheading1{
+    font-size: 25px !important;
+    font-weight: 700;
+}
+.ch-atom-sec4-cardheading2{
+    font-size: 25px !important;
+    font-weight: 700;
+}
+.ch-atom-arrow1{
+    width: 13%;
+    position: absolute;
+    transform: translate(30%, -583%) rotate(50deg);
+}
+.ch-atom-arrow2{
+    width: 13%;
+    position: absolute;
+    transform: translate(-130%, -123%) rotate(-60deg) scale(-1,1);
+}
+.ch-atom-section5-font{
+    font-size: 37px !important;
+}
+    
+    
+
 
 
 }
@@ -373,6 +564,86 @@ a{
     margin-top: 5px !important;
     margin-left: 22px;
 }
+.ch-atom-img-arrow2--position{
+    width: 7%;
+    position: absolute;
+    transform: translate(400%, -103%);
+}
+.ch-atom-img-headphone{
+    width: 52%;
+    position: absolute;
+    transform: translate(-1%, 4%);
+}
+.ch-atom-desc--maxwidth{
+    max-width: 390px;
+    margin-left: 490px;
+    padding-top: 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.ch-atom-sec4-img{
+    width: 35% !important;
+}
+.ch-atom-sec4-img2{
+    width: 48% !important ;
+}
+.ch-atom-sec4-img3{
+    width: 48% !important ;
+}
+.heading-font{
+    font-size: 27px !important;
+    font-weight: 700;
+}
+.ch-atom-sec4-carddesc{
+    text-align: center;
+}
+.ch-atom-sec4-cardheading{
+    text-align: center;
+}
+.ch-molc-sec4__card-width{
+    width: 280px;
+}
+.ch-molc-card1-sec4{
+    margin-left: 5px;
+    margin-top: -5px;
+}
+.ch-molc-card2-sec4{
+    
+    margin-top:0px !important;
+}
+.ch-molc-card3-sec4{
+    margin-left: -25px !important;
+    margin-top:0px !important;
+}
+.ch-atom-sec4-cardheading3{
+    margin-top: 30px;
+}
+.ch-atom-sec4-carddesc2--maxwidth-larger{
+    max-width: 240px ;
+    padding-left: 10px;
+}
+.ch-atom-arrow1{
+    width: 8%;
+    position: absolute;
+    transform: translate(110%, -633%);
+}
+.ch-atom-arrow2{
+    width: 8%;
+    position: absolute;
+    transform: translate(110%, -333%) rotate(160deg) scale(-1,1);
+}
 
+.ch-atom-section5-font{
+    font-size: 40px;
+    line-height: 45px;
+}
+.ch-molc-textarea--pad{
+    padding-left: 80px !important;
+    padding-top: 170px !important;
+}
+.item-atom-trophie--width{
+    width: 39% !important;
+    margin-top: 50px !important;
+}
 
 }
