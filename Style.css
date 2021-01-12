@@ -69,7 +69,7 @@ a{
     font-weight: 500;
 }
 .item-atom-trophie{
-    background-color: rgb(248, 251, 255) ;
+    background-color: rgb(248, 251, 255);
     border-radius: 30px;
 }
 .ch-atom-section6-card{
@@ -84,6 +84,78 @@ a{
 .ch-atom-section7-headingline{
     line-height: 31px !important;
     margin-left: 0px !important;
+}
+.ch-background-color{
+    background-color: rgb(248, 251, 255);
+    border-radius: 30px;
+}
+.ch-atom-s12--color{
+    color: white !important;
+}
+.ch-organism-s12{
+    background-color: #63ACFC;
+}
+.ch-organism-s12{
+    border-radius: 30px;
+    
+}
+.ch-molc-s12-button{
+    background-color: white !important;
+    color: #63ACFC !important;
+}
+.ch-organism-s13-border{
+    border: 1px solid #63ACFC ;
+    border-radius: 30px;
+    background-color: rgb(248, 251, 255) ;
+    
+}
+.ch-atom-s13-link{
+    border: 2px solid #63ACFC ;
+    background-color: white;
+    padding: 13px !important;
+}
+.ch-molc-sec13-input-fiels{
+    opacity: 0.6 !important;
+}
+.ch-organism-footer{
+
+}
+.ch-molc-footer-list{
+padding: 0;
+list-style: none;
+}
+.ch-molc-footer-list__item{
+  font-size: 13px;
+  padding: 10px;
+  opacity: 0.7;
+  font-size: 15px;
+}
+.ch-molc-footer-list__item2{
+font-size: 9px;
+padding: 5px;
+opacity: 0.8;
+font-size: 15px;
+padding-left: 20px;
+margin-top: 8px;
+}
+.ch-molc-footer-list__item--pad-left{
+    padding-left: 60px;
+}
+.ch-molc-service-card{
+    height: 195px;
+    width: 246px;
+    padding: 0;
+  }
+.ch-atom-cardimg-s6{
+    width:15% !important;
+}
+.ch-atom-card-title{
+    font-family: 'EB Garamond', serif;
+    font-weight: 800;
+}
+.ch-mol-seccard{
+    background-color: rgb(248, 251, 255) ;
+    border-radius: 20px;
 }
 
 
@@ -266,8 +338,69 @@ a{
 .ch-atom-text--maxwidth{
     max-width: 329px;
     margin-left: 10px;
+}
+.ch-atom-section7-text--maxwidth{
+    font-size: 15px; max-width: 360px !important;
+}
+.ch-atom-s8-text--padup{
+    max-width: 285px; margin-left: 20px ;
+}
+.flexbox-s9{
+    display: flex;
+    flex-direction: column;
+}
+.item-molc-first-s9{
+    order: 2;
+}
+.ch-atom-s9--maxwidthlower{
+    margin-left: 0;
+    max-width: 370px;
+}
+.ch-molc-sec13-input-fiels{
+    border-radius: 20px !important;
+    text-align: center;
+    padding: 16px !important;
+    max-width: 290px;
+    margin-left: 20px;
+    margin-top: -20px;
+}
+.ch-organism-s13-border{
+    margin-right: 80px;
+    margin-left: 95px;
+}
+.ch-molc-footer-list__item2{
+    font-size: 12px !important;
+    opacity: 1;
     
 }
+.ch-molc-footer-list--copyright-md{
+    margin-left: -25px;
+}
+.ch-molc-footer-list__item2{
+    padding-left: 6px;
+}
+.ch-molc-footer-list__item {
+    padding:9px;
+}
+.carousel-indicators li{
+    
+    border-radius: 50%;
+    width: 5px !important;
+    height: 7px !important;
+    background-color: rgb(99, 172, 252) !important;
+    
+}
+.carousel-indicators{
+    margin-top: 20px !important;
+}
+.ch-molc-card-s6-sm{
+    margin-left: 50px !important;
+}
+.item-atom-trophie--width{
+    margin-left: 10px !important;
+}
+
+
 }
 
 
@@ -373,6 +506,7 @@ a{
 .ch-atom-img-headphone :hover{
     display: none;
 }
+
 .ch-atom-desc--maxwidth{
     max-width: 340px;
     margin-left: 230px;
@@ -435,11 +569,74 @@ a{
 .ch-atom-section5-font{
     font-size: 37px !important;
 }
+.ch-atom-section7-text--maxwidth{
+    margin-top:22px !important;
+}
+.ch-atom-s8--lineheight-up{
+    line-height: 37px;
+}
+.ch-atom-s8-text--padup{
+    margin-top: -40px;
+}
+.ch-atom-s9--maxwidthlower{
+    line-height: 20px;
+}
+.ch-atom-s9-text--padup{
+    margin-top: 0px;
+}
+.ch-atom-sec9--position-correctly{
+    margin-left: 30px;
+}
+.ch-atom-sec10-img--width{
+    width: 95%;
+    margin-left: 15px;
+}
+.ch-molc-sec13-input-fiels{
+    padding: 20px !important;
+    border-radius: 30px !important;
+    text-align: center;
+}
+.ch-molc-sec13-input-fiels{
+    margin-bottom: 30px;
+}
+.ch-atom-s13-padabove{
+    margin-left: 120px !important;
+    padding: 20px !important;
+    padding-left: 35px !important;
+    padding-right: 35px !important;
+}
+.ch-molc-footer-list{
+    margin-left: 190px !important;
+    font-weight: 500;
+}
+.ch-molc-footer-list--copyright-md{
+    margin-left: -40px !important;
     
-    
-
-
-
+}
+.ch-molc-footer-list__item2{
+    font-size: 12px !important;
+}
+.ch-molc-footer-list__item2--md-pad{
+    margin-left: 180px;
+}
+.ch-molc-footer-list__item2--md-pad-fourth{
+    padding-left: 120px;
+}
+.ch-molc-service-card{
+    margin-bottom: 10px;
+}
+.ch-molc-service-card--card3{
+    margin-top: 15px;
+}
+.ch-molc-service-card--card5{
+    margin-top: 10px;
+}
+.ch-molc-service-card--card7{
+    margin-top:25px;
+}
+.ch-molc-sec13-input-fiels{
+    width: 420px !important;
+}
 }
 
 /*--------------------LARGE---------------*/
@@ -645,5 +842,83 @@ a{
     width: 39% !important;
     margin-top: 50px !important;
 }
+.ch-atom-section7-text--maxwidth{
+    margin-top:20px !important;
+}
+.ch-atom-sec8--position-correctly{
+    padding:150px;
+    padding-left: 60px !important;
+}
+.ch-atom-sec8-img2{
+    padding-top: 100px;
+}
+.ch-atom-s-9-image--smaller{
+    width: 85%;
+    padding-left:50px ;
+}
+.ch-atom-sec9--position-correctly{
+    margin-left: -100px; margin-top: 35px !important;
+}
+.ch-atom-sec10-img--width{
+    width: 75%;
+    margin-left: 125px;
+    
+}
+.ch-molc-sec13-input-fiels{
+    margin-top: -25px;
+    border-radius: 25px !important;
+}
+.ch-atom-s13-padabove{
+    
+    padding: 15px !important;
+    padding-left: 35px !important;
+    padding-right: 35px !important;
+    margin-left: 170px;
+}
+.ch-molc-sec13-input-fiels{
+    margin-left: 175px;
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+    margin-top: -35px;
+}
+.ch-organism-3card{
+    margin-left: 140px  !important;
+}
+.ch-card-text--width{
+    max-width: 220px;
+    margin-left: 20px;
+}
+.ch-molc-3cards-card{
+    margin-left: 35px;
+}
+.ch-atom-card-title--card2{
+    margin-top:15px  !important;
+}
+.ch-atom-card-title--card4{
+    margin-top:-6px  !important;
+}
+.ch-atom-card-title--card8{
+    margin-top:-16px  !important;
+}
+.ch-atom-card-title{
+    font-size: 21px;
+    max-width: 190px;
+    
+}
+.ch-organism-s6--width-container{
+    width: 90% !important;
+}
+.ch-atom-after11-card3--width{
+    max-width: 230px;
+}
+.ch-atom-after11-card{
+    margin-left: 30px;
+}
+.ch-atom-after11-card3{
+    margin-left: 15px;
+}
+
+
+
 
 }
