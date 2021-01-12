@@ -157,6 +157,9 @@ margin-top: 8px;
     background-color: rgb(248, 251, 255) ;
     border-radius: 20px;
 }
+.ch-molc-icons-s13{
+    margin-top:-40px !important;
+}
 
 
 /*-----------small----------------*/
@@ -654,6 +657,7 @@ margin-top: 8px;
     border:3px;
     height: 45px;
     border-width: 2px !important;
+    border-radius: 50px !important;
 }
 .row__second--toDown{
     margin-top: 29px !important;
